@@ -1,8 +1,7 @@
 # Nextjs_Showcase
-[![GitHub Release](https://img.shields.io/github/release/zjayers/nextjs_showcase.svg?style=flat)]()
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/nextjs_showcase.svg?style=flat)]()
+[![GitHub Release](https://img.shields.io/github/release/zjayers/nextjs_showcase.svg?style=flat)](https://github.com/zjayers/nextjs_showcase/releases)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/nextjs_showcase.svg?style=flat)](https://github.com/zjayers/nextjs_showcase/pulls)
 [![Issues](https://img.shields.io/github/issues-raw/zjayers/nextjs_showcase.svg?maxAge=25000)](https://github.com/zjayers/nextjs_showcase/issues)
-[![MIT License](https://img.shields.io/apm/l/atomic-ui.svg?)](https://github.com/zjayers/nextjs_showcase/blob/master/LICENSEs)
 
 ## Description
 
